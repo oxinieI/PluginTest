@@ -1,0 +1,9 @@
+name: PluginTest
+version: 1.0
+author: Arsuup
+main: be.arsuup.plugintest.Main
+
+commands:
+  portal:
+    description: Définit les coordonnées pour la téléportation.
+    usage: /portal destination <x> <y> <z>
